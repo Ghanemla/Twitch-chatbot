@@ -10,6 +10,7 @@ This application is a Twitch chat bot that uses AI to generate responses to user
 - Converts AI responses to speech using text-to-speech technology
 - Handles Unicode characters and special symbols in text-to-speech conversion
 - Allows for easy customization of AI model and voice settings
+- Everything runs locally on you PC
 
 ## Prerequisites
 
